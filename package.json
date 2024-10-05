@@ -1,0 +1,27 @@
+{
+  "name": "mynewface",
+  "version": "1.0.0",
+  "description": "A face swapping application using Vue and Electron (مثال)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bbypepe/mynewface.git"
+  },
+  "keywords": [
+    "keywords:",
+    "face",
+    "swap",
+    "vue",
+    "electron",
+    "(مثال)"
+  ],
+  "author": "bbypepe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bbypepe/mynewface/issues"
+  },
+  "homepage": "https://github.com/Bbypepe/mynewface#readme"
+}
